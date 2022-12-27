@@ -1,0 +1,14 @@
+//
+//  Build.xcconfig
+//  BuildConfigApp
+//
+//  Created by Mohamed Salem on 27/12/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// https://www.danijelavrzan.com/posts/2022/11/xcode-configuration/
+
+
+BASE_URL = https:/$()/api.github.com/repositories
